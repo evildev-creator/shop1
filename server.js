@@ -114,7 +114,7 @@ app.prepare().then(() => {
   server.post("/api/checkout", async (req, res) => {
     await Checkout.create(
       {
-        description: "Strapsessions Checkout",
+        description: "Gunstopshop Checkout",
         local_price: {
           amount: 56,
           currency: "USD",

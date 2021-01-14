@@ -70,7 +70,7 @@ class Index extends Component {
     return (
       <React.Fragment>
         <Head>
-          <title>STRAPSESSIONS </title>
+          <title>GUNSTOPSHOP </title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"
@@ -102,7 +102,7 @@ class Index extends Component {
                     </li>
                     <li>
                       <i className="far fa-envelope"></i> Email Us:{" "}
-                      <a href="#">support@strapsessions.com</a>
+                      <a href="#">support@gunstopshop.com</a>
                     </li>
                     <li>
                       <i className="fa fa-map-marker"></i>

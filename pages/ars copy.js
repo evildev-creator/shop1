@@ -35,7 +35,7 @@ class Index extends Component {
                 <section className="products-collections-area ptb-60">
                     <div className="container">
                         <div className="section-title">
-                            <h2>STRAPSESSIONS</h2>
+                            <h2>GUNSTOPSHOP</h2>
                         </div>
                     </div>
 

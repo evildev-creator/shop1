@@ -12,7 +12,7 @@ class BlogDetails extends Component {
         return (
             <React.Fragment>
                 <Head>
-        <title>STRAPSESSIONS  Blog</title>
+        <title>GUNSTOPSHOP  Blog</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
                 <Navbar />

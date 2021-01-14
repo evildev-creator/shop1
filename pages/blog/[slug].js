@@ -71,7 +71,7 @@ const Blog = ({ post, morePosts }) => {
               - Share -
             </Typography>
             <ShareButton
-              url={`https://strapsessions/blog/${post?.fields.slug}`}
+              url={`https://Gunstopshop.com/blog/${post?.fields.slug}`}
             />
           </Grid>
         </Grid>

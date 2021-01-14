@@ -1,7 +1,7 @@
 {
-    "name": "Strapsessions.com",
+    "name": "Gunstopshop.com",
     "version": "3.7.0",
-    "description": "Strapsessions.com #1 Dealer In firearms",
+    "description": "Gunstopshop.com #1 Dealer In firearms",
     "main": "index.js",
     "scripts": {
         "dev": "node server.js",

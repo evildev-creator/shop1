@@ -54,7 +54,7 @@ const Index = ({ posts }) => {
   return (
     <React.Fragment>
       <Head>
-        <title>STRAPSESSIONS </title>
+        <title>GUNSTOPSHOP </title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <NavbarTwo />

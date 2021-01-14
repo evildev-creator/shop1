@@ -11,7 +11,7 @@ class Index extends Component {
             <React.Fragment>
                 <Navbar />
                 <Head>
-        <title>STRAPSESSIONS </title>
+        <title>GUNSTOPSHOP </title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
                 <Breadcrumb title="Customer Service" />
@@ -31,7 +31,7 @@ class Index extends Component {
                                 <li>See the delivery FAQs for details on shipping methods, costs and delivery times</li>
                             </ul>
                             <h3><i className="far fa-credit-card"></i> Payment Methods</h3>
-                            <p>Strapsessions accepts the following payment methods:</p>
+                            <p>Gunstopshop accepts the following payment methods:</p>
                             <ul>
                                 <li>Credit Card: Visa, MasterCard, Discover, American Express, JCB, Visa Electron. The total will be charged to your card when the order is shipped.</li>
                                 <li>Cryptocurrency Fast Checkout option, allowing you to securely purchases a product.</li>

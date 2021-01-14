@@ -11,7 +11,7 @@ class Index extends Component {
         return (
             <React.Fragment>
                   <Head>
-        <title>About Strapsessions</title>
+        <title>About Guns Top Shop</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
                 <Navbar />

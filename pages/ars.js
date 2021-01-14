@@ -32,14 +32,14 @@ class Index extends Component {
             <React.Fragment>
                 <Navbar />
                 <Head>
-        <title>STRAPSESSIONS </title>
+        <title>GUNSTOPSHOP </title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
                 
                 <section className="products-collections-area ptb-60">
                     <div className="container">
                         <div className="section-title">
-                            <h2>STRAPSESSIONS</h2>
+                            <h2>GUNSTOPSHOP</h2>
                         </div>
                     </div>
 
