@@ -30,7 +30,7 @@ class AddsModal extends Component {
         return (
             <div className={`bts-popup ${open ? 'is-visible' : ''}`} role="alert">
                 <div className="bts-popup-container">
-                    <h3>STRAPSESSIONS</h3>
+                    <h3>GUNSTOPSHOP</h3>
                     <p> <strong>Let's get Connected. Subscribe to our Newsletter  to get notified of Updates</strong></p>
 
                     <form>

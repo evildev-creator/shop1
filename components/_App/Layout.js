@@ -11,11 +11,11 @@ const Layout = ({ children }) => {
         <React.Fragment>
             <ReactTooltip  />
             <Head>
-                <title>Strapsessions: The #1 Dealer in FireArms</title>
+                <title>Gunstopshop: The #1 Dealer in FireArms</title>
                 <meta name="description" content=" The largest online gun stores with the selection of handguns, rifles, shotguns, ammo, optics & firearm accessories." />
                 <meta name="og:title" property="og:title" content="Biggest Online gun deals"></meta>
-                <meta name="twitter:card" content="Strapsessions - Biggest Online gun deals"></meta>
-                <link rel="canonical" href="https://strapsessions.com"></link>
+                <meta name="twitter:card" content="Gunstopshop - Biggest Online gun deals"></meta>
+                <link rel="canonical" href="https://Gunstopshop.com"></link>
                 <meta property="og:image" content="https://pixabay.com/get/54e4d747485bae14f1dc8460da29317e1038dfe4565975_640.jpg" />
             </Head>
             <Analytics/>
