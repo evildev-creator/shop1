@@ -34,7 +34,7 @@ class Index extends Component {
     e.preventDefault();
     axios({
       method: "POST",
-      url: "https://send-email-strapsessions.herokuapp.com/api/contact",
+      url: "https://emailbac.herokuapp.com/api/contact",
       data: this.state,
     }).then((response) => {
       if (response.data === "success") {
